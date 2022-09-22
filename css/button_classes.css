@@ -1,0 +1,27 @@
+.simplebutton {
+    background-color: coral;
+    /* height: 15vh; */
+    margin-top:10px ;
+    padding: 5px;
+}
+.outlinebutton{
+    background-color:azure;
+    /* height: 10vh; */
+    margin-top: 10px;
+    padding: 10px;
+}
+.buttonsizes{
+    background-color:lightcoral;
+    margin-top: 10px;
+    padding: 10px;
+}
+.blockbutton{
+    background-color: mediumpurple;
+    margin-top: 10px;
+    padding: 10px;
+}
+.togglebutton{
+    background-color: orchid;
+    margin-top: 10px;
+    padding: 10px;
+}
